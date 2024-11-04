@@ -108,4 +108,5 @@ http://<public_ip_of_your_instance>
 - *The WinSCP interface has two panels:*
 - Left Panel: Your local machine files.
 - Right Panel: EC2 instance files.
-## Drag and drop files from the left to the right panel to transfer files to your EC2 instance.
+## Drag and drop files from the left to the right panel to transfer files to your EC2 instance. &#x2764;
+
