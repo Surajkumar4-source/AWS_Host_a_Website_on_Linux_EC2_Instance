@@ -1,5 +1,5 @@
 
-## Create an EC2 Instance and Host a Website
+# Create an EC2 Instance and Host a Website
 
 ### Objective
 To create  Ubuntu  EC2 instances, install the necessary web servers, and host websites displaying welcome messages.
