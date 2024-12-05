@@ -110,3 +110,67 @@ http://<public_ip_of_your_instance>
 - Right Panel: EC2 instance files.
 ## Drag and drop files from the left to the right panel to transfer files to your EC2 instance. &#x2764;
 
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+## ------------------Screnshots--------------------
+
+1.
+
+<br> 
+<br>
+
+![Alt text for image](screenshots/1.png)
+
+
+2.
+
+
+<br> <br>
+
+![Alt text for image](screenshots/2.png)
+
+
+<br> <br>
+
+
+3.
+
+
+<br> <br>
+
+![Alt text for image](screenshots/3.png)
+
+4.
+
+
+
+<br> <br>
+
+![Alt text for image](screenshots/4.png)
+
+5.
+
+
+
+<br> <br>
+
+
+![Alt text for image](screenshots/5.png)
+
+
+
+
+ <br> <br>
